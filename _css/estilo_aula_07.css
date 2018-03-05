@@ -1,0 +1,26 @@
+header, section, footer {
+	background-color: #fff;
+	padding: 10px;
+	width: 960px;
+	margin: auto;
+	margin-top: 5px;
+}
+
+input {
+	width: 200px;
+	height: 30px;
+	border: 1px solid #ddd;
+	border-radius: 3px;
+}
+
+.btn {
+	background-color: #000;
+	width: 205px;
+	height: 30px;
+	border: 1px solid #000;
+	border-radius: 3px;
+	color: #fff;
+	text-align: center;
+	font: arial;
+	font-size: 20px;
+}
